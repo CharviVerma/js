@@ -5,6 +5,6 @@ function capitalizeFirstLetter(str) {
   const inputString = 'hello world';
   const capitalizedString = capitalizeFirstLetter(inputString);
   
-  console.log(`Original string: ${inputString}`);
-  console.log(`Capitalized string: ${capitalizedString}`);
+  console.log(capitalizedString);
+  
   
